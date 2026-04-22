@@ -45,7 +45,7 @@ public class PlayerMovement : MonoBehaviour
             scale.x *= -1f;
             transform.localScale = scale;
         }
-        //hiiiiiiiiiiiiiiiiiiiii
+        //hiiiiiiiiiiiiiiiiiiiii yurrrrrrrrr
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
